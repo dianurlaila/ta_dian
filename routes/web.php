@@ -16,15 +16,6 @@ Route::get('/', function () {
 });
 
 
-Route::get('/branch perubahan', function () {
-    return view('welcome');
-});
-
-
-
-Route::get('/branch perubahan', function () {
-    return view('welcome');
-});
 
 
 
